@@ -1,0 +1,7 @@
+.wrap {background-color: white;width: 800px;height: 500px;box-shadow: 5px 4px 4px 0px rgba(0, 0, 0, 0.25);position: relative;margin: 0 auto;top: 70px;padding: 25px; box-sizing: border-box;}
+body {background-color: #dcdcdc;}
+h2 {margin: 15px 0;}
+p {width: 750px;height: 270px;}
+div > input {position: absolute;box-sizing: content-box;font-size: 15px;}
+div > input[type="text"] {width: 530px;height: 50px;left: 25px;}
+div > input[type="button"] {width: 170px;height: 50px;right: 25px;}
