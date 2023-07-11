@@ -10,7 +10,7 @@ import data from "./json.js";
             count++;
             h.innerText = `${count}번 문제`;
             p.innerText = arr[count-1].문제;
-            if (count > 1){
+            if (count > 121){
                 document.write(list);
             }
         }
